@@ -1,0 +1,20 @@
+{
+  "id": "lukecage",
+  "name": "Luke Cage",
+  "deck": {
+    "cards": [
+      "https://i.imgur.com/EEE555.png",
+      "https://i.imgur.com/FFF666.png",
+      "https://i.imgur.com/GGG777.png",
+      "https://i.imgur.com/HHH888.png"
+    ],
+    "back": "https://i.imgur.com/backLC.png"
+  },
+  "figure": {
+    "image": "https://i.imgur.com/figureLC.png"
+  },
+  "dial": {
+    "max": 18,
+    "start": 18
+  }
+}

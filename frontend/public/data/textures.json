@@ -1,0 +1,27 @@
+{
+  "wood-light": {
+    "name": "Madera Clara",
+    "css": "url('https://www.transparenttextures.com/patterns/wood-pattern.png') repeat",
+    "color": "#d9c7a3"
+  },
+  "wood-dark": {
+    "name": "Madera Oscura",
+    "css": "url('https://www.transparenttextures.com/patterns/dark-wood.png') repeat",
+    "color": "#5b4636"
+  },
+  "felt-green": {
+    "name": "Tapete Verde",
+    "css": "url('https://www.transparenttextures.com/patterns/green-fibers.png') repeat",
+    "color": "#2f4f2f"
+  },
+  "felt-blue": {
+    "name": "Tapete Azul",
+    "css": "url('https://www.transparenttextures.com/patterns/dark-fish-skin.png') repeat",
+    "color": "#1f2f4f"
+  },
+  "plain": {
+    "name": "Liso Claro",
+    "css": "none",
+    "color": "#f8f8f5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "map": "data/maps/sunnydale.json",
+  "players": [
+    {
+      "hero": "data/heroes/blackpanther.json",
+      "deckPos": { "x": 80, "y": 420 }
+    },
+    {
+      "hero": "data/heroes/lukecage.json",
+      "deckPos": { "x": 1180, "y": 420 }
+    }
+  ]
+}

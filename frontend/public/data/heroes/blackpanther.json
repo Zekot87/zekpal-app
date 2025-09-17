@@ -1,0 +1,20 @@
+{
+  "id": "blackpanther",
+  "name": "Black Panther",
+  "deck": {
+    "cards": [
+      "https://i.imgur.com/AAA111.png",
+      "https://i.imgur.com/BBB222.png",
+      "https://i.imgur.com/CCC333.png",
+      "https://i.imgur.com/DDD444.png"
+    ],
+    "back": "https://i.imgur.com/backBP.png"
+  },
+  "figure": {
+    "image": "https://i.imgur.com/figureBP.png"
+  },
+  "dial": {
+    "max": 17,
+    "start": 17
+  }
+}
